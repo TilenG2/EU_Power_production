@@ -95,8 +95,8 @@ Na spodnji sliki sta dva grafa, ki prikazujeta skupno proizvodnjo v Evropi glede
 - 
 
 ## Viri:
-![Energija na Irskem](https://www.seai.ie/publications/Energy-in-Ireland-1990-2015.pdf)
-![Proizvodnja energije plimskih valov](https://www.euractiv.com/section/energy/interview/irena-chief-europe-is-the-frontrunner-on-tidal-and-wave-energy/)
-![Črna gora vetrna energija](https://www.energetika.net/eu/novice/renewables/wind-power-share-in-montenegro’s-electricity-mix-hit)
-![Norveški članek o hidro energiji](https://businessnorway.com/articles/how-norway-produces-hydropower-with-a-minimal-carbon-footprint)
-![Finska in vetrna energija](https://en.wikipedia.org/wiki/Wind_power_in_Finland)
+- https://www.seai.ie/publications/Energy-in-Ireland-1990-2015.pdf
+- https://www.euractiv.com/section/energy/interview/irena-chief-europe-is-the-frontrunner-on-tidal-and-wave-energy/
+- https://www.energetika.net/eu/novice/renewables/wind-power-share-in-montenegro’s-electricity-mix-hit
+- https://businessnorway.com/articles/how-norway-produces-hydropower-with-a-minimal-carbon-footprint
+- https://en.wikipedia.org/wiki/Wind_power_in_Finland
