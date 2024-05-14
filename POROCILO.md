@@ -39,31 +39,48 @@ Na spodnji sliki so prikazani grafi za vsak tip proizvodnje energije in države,
 Hidroenergija je najbolj razširjen tip energije v Sloveniji. Poglejmo si nekaj zanimivosti, ki smo jih ugotovili:
 
 - Norveška je največji proizvajalec hidroenergije.
-    - Norveška dobro izkorišča svoje vodne vire, večina elektrarn je postavljenih na že obstoječih jezerih in posledično ni potrebno dodatne    gradnje ali množičnega preseljevanja prebivalstva. Vodno energijo je lahko uravnavati in proizvajati glede na potrebo. Prav tako hidroelektrarne na Norveškem ležijo na višji nadmorski višini, kar je posledica površja države, in posledično proizvajajo manj emisij. Razlog tiči za tem, da je v goratih predelih manj vegetacije in je na splošno bolj mrzlo, kar posledično vpliva na zmanjšano proizvodnjo metana v hidroelektrarnah kot stranski proizvod.
+    - Norveška dobro izkorišča svoje vodne vire, večina elektrarn je postavljenih na že obstoječih jezerih in posledično ni potrebno dodatne gradnje ali množičnega preseljevanja prebivalstva. Vodno energijo je lahko uravnavati in proizvajati glede na potrebo. Prav tako hidroelektrarne na Norveškem ležijo na višji nadmorski višini, kar je posledica površja države, in posledično proizvajajo manj emisij. Razlog tiči za tem, da je v goratih predelih manj vegetacije in je na splošno bolj mrzlo, kar posledično vpliva na zmanjšano proizvodnjo metana v hidroelektrarnah kot stranski proizvod.
     Spodaj je graf, ki prikazuje kakšni tipi hidroenergije se proizvajajo na Norveškem.
+
     ![Proizvodnja hidro energije na Norveškem graf](/img/norwayHydroGraf.png)
 
-    In še slika s katero si lahko bolj nazorno predstavljamo razliko med proizvodnjo na Norveškem in v ostalih državah
+    In še slika, s katero si lahko bolj nazorno predstavljamo razliko med proizvodnjo na Norveškem in v ostalih državah
+
     ![Proizvodnja hidro energije na Norveškem map](/img/MapaHydro.png)
 
 **Naslednji podatki so grupirani**
 
 - Na Irskem je med letoma 2010 in 2011 velik vpad v proizvodnji.
     -V letu 2009 so vsi sektorji gospodarstva občutili zmanjšanje porabe energije in s tem povezanih emisij CO2. Leta 2011 do 2013 so bila blaga leta v primerjavi z letom 2010 in ne glede na enakomerno rast BDP je v teh letih prišlo do padca povpraševanja po energiji v vseh sektorjih gospodarstva
+
     ![Proizvodnja hidroenergije Irska graf](/img/WonkIrelandHydro.png)
 
 - Primerjava Slovenije s podobnimi državami:
     -TODO why are they so similar
+
     ![Proizvodnja hidro energije Slovenija graf](/img/HydroSloveniaGraf.png)
 
 
 ## 3. Sončna energija:
 - Leta 2011 je viden največji porast v proizvodnji sončne energije. 
     -To je zaradi različnih spodbud in razširjeno subvencioniranje s strani vlad. To je privedlo do nižjih cen. Trg sončnih celic se je tudi v tem času razvil hitreje od pročakovanj, kar je še dodatno spodbudilo rast. Trg se je to leto najbolj povečal v Italiji in Nemčiji, trenutno pa sta največji proizvajalki Nemčija in Nizozemska.
+
     ![Skupna proizvodnja Sončne energije mapa](/img/SolarEnergyEuropeMap.png)
 
 - Primerjava Slovenije s podobnimi državami:
+
     ![Proizvodnja Solar energije Slovenija graf](/img/SloveniaSolarGraf.png)
+    
+## 4. Vetrna energija:
+- Vetrna energija je ena izmed najbolj popularnih zelenih načinov za pridobivanje električne energije.
+    -Finska in Norveška se predvsem zavzameta za vetrno energijo v letu 2018, saj se v naslednjih letih proizvodnja več kot podvoji.
+
+    ![Proizvodnja vertne energije Finska graf](/img/WindFinland.png)
+
+- Črna Gora se leta 2016 tudi zelo zavzame za ta tip energije, saj je v nesledjih dveh letih zgradila 2 veliki vetrni elektrarni, imenovani Krnovo in Mozura.
+
+    ![Proizvodnja vetrne energije Črna Gora graf](/img/WindMontenegro.png)
+    ![Proizvodnja vetrne energije](/img/Wind.jpg)
 
 ## N skupna proizvodnja energije v evropi glede na njeno vrsto 
 
@@ -78,3 +95,8 @@ Na spodnji sliki sta dva grafa, ki prikazujeta skupno proizvodnjo v Evropi glede
 - 
 
 ## Viri:
+![Energija na Irskem](https://www.seai.ie/publications/Energy-in-Ireland-1990-2015.pdf)
+![Proizvodnja energije plimskih valov](https://www.euractiv.com/section/energy/interview/irena-chief-europe-is-the-frontrunner-on-tidal-and-wave-energy/)
+![Črna gora vetrna energija](https://www.energetika.net/eu/novice/renewables/wind-power-share-in-montenegro’s-electricity-mix-hit)
+![Norveški članek o hidro energiji](https://businessnorway.com/articles/how-norway-produces-hydropower-with-a-minimal-carbon-footprint)
+![Finska in vetrna energija](https://en.wikipedia.org/wiki/Wind_power_in_Finland)
