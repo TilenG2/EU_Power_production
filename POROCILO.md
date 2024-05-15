@@ -40,13 +40,8 @@ Hidroenergija je najbolj razširjen tip energije v Sloveniji. Poglejmo si nekaj 
 
 - Norveška je največji proizvajalec hidroenergije.
     - Norveška dobro izkorišča svoje vodne vire, večina elektrarn je postavljenih na že obstoječih jezerih in posledično ni potrebno dodatne gradnje ali množičnega preseljevanja prebivalstva. Vodno energijo je lahko uravnavati in proizvajati glede na potrebo. Prav tako hidroelektrarne na Norveškem ležijo na višji nadmorski višini, kar je posledica površja države, in posledično proizvajajo manj emisij. Razlog tiči za tem, da je v goratih predelih manj vegetacije in je na splošno bolj mrzlo, kar posledično vpliva na zmanjšano proizvodnjo metana v hidroelektrarnah kot stranski proizvod.
-    - Norveška dobro izkorišča svoje vodne vire, večina elektrarn je postavljenih na že obstoječih jezerih in posledično ni potrebno dodatne gradnje ali množičnega preseljevanja prebivalstva. Vodno energijo je lahko uravnavati in proizvajati glede na potrebo. Prav tako hidroelektrarne na Norveškem ležijo na višji nadmorski višini, kar je posledica površja države, in posledično proizvajajo manj emisij. Razlog tiči za tem, da je v goratih predelih manj vegetacije in je na splošno bolj mrzlo, kar posledično vpliva na zmanjšano proizvodnjo metana v hidroelektrarnah kot stranski proizvod.
-    Spodaj je graf, ki prikazuje kakšni tipi hidroenergije se proizvajajo na Norveškem.
-
 
     ![Proizvodnja hidro energije na Norveškem graf](/img/norwayHydroGraf.png)
-
-    In še slika, s katero si lahko bolj nazorno predstavljamo razliko med proizvodnjo na Norveškem in v ostalih državah
 
     In še slika, s katero si lahko bolj nazorno predstavljamo razliko med proizvodnjo na Norveškem in v ostalih državah
 
