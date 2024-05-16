@@ -10,7 +10,7 @@ Mitja Leban
 
 ## Opis problema:
 
-Zanimajo nas viri električne energije v Evropi. Prevlada neobnovljiva ali okolju prijazna energija? Kako se razlikujejo glede na dele Evrope? Primerjali bomo Slovenijo z ostalimi razvitimi državami Evrope. Smo v zaostanku ali progresivni kar se tiče obnovljivih virovi? Pogledali bomo, kako so se čez let spreminjali načini pridobivanja energije in skušali napovedati, kako bo v prihodnjih 2, 5 in 10 letih.
+Zanimajo nas viri električne energije v Evropi. Prevlada neobnovljiva ali okolju prijazna energija? Kako se razlikujejo glede na dele Evrope? Primerjali bomo Slovenijo z ostalimi razvitimi državami Evrope. Smo v zaostanku ali progresivni kar se tiče obnovljivih virovi? Pogledali bomo, kako so se čez let spreminjali načini pridobivanja energije.
 
 ## Podatki:
 
@@ -21,15 +21,15 @@ Imamo podatke iz treh različnih baz podatkov, ki jih lahko uporabno združimo. 
 
 ## 1. Primerjava proizvodnje držav za vsak tip proizvodnje energije:
 
-Na spodnji sliki so prikazani grafi za vsak tip proizvodnje energije in države, ki te največ proizvajajo. Za mersko enoto uporabljamo kWh/prebivalca
+Na spodnji sliki so prikazani grafi za vsak tip proizvodnje energije in države, ki te največ proizvajajo. Za mersko enoto uporabljamo kWh/prebivalca. Podatki so iz leta 2022
 
 ![Proizvodnja energije po državah](/img/vsiTipiEnergijPoDrzavah.png)
 
 **Ugotovili smo slednje:**
-- Norveška in Islandija proizvajata veliko hidroenergije zaradi obsežnih rek in jezer v teh državah.
+- Norveška proizvaja veliko hidroenergije zaradi obsežnih rek in jezer v tej državi.
 - Islandija proizvede največ geotermalne energije, skoraj 50kWh/prebivalca, kar je v primerjavi z ostalimi državami skoraj 50x več. To je zaradi mnogih gejzirjev, ki jih imajo v državi.
 - Trdna biogoriva prevladujejo na Finskem, Danskem, Švedskem in v Estoniji. Vse to so države z velikim deležem gozdnih površin.
-- Edini dve državi, ki proizvajata električno energijo z uporabo plime in oseke sta Francija in Španija, kjer Francija proizvede mnogo več.
+- Edini dve državi, ki proizvajata električno energijo z uporabo plime in oseke sta Francija in Španija, kjer Francija proizvede mnogo več. To je zato, ker je postavitev takšnih elektrarn draga in manj dobičkonosna.
 - Največji proizvajalec nuklearne energije je Francija, to je tudi njen glavni vir električne energije.
 - Nemčija in Nizozemska sta največji proizvajalki sončne energije.
 - Največji proizvajalki vetrne energije sta Danska in Švedska.
@@ -92,7 +92,7 @@ Hidroenergija je drugi najbolj razširjen tip energije v Sloveniji. Poglejmo si 
 
 ## 6. skupna proizvodnja energije v evropi glede na njeno vrsto:
 
-Na spodnji sliki sta dva grafa, ki prikazujeta skupno proizvodnjo v Evropi glede na tip energije. Drugi graf je razširitev prvega, na katerem so tipi energije, ki se najmanj proizvedejo. Za prvi je enota gigawatt (GW), za drugi pa megawatt (MW)
+Na spodnji sliki sta dva grafa, ki prikazujeta skupno proizvodnjo v Evropi glede na tip energije. Drugi graf je razširitev prvega, na katerem so tipi energije, ki se najmanj proizvedejo. Za prvi je enota gigawatt (GW), za drugi pa megawatt (MW).
 
 ![Skupna proizvodnja energije v Evropi](/img/imgSkupno.png)
 
