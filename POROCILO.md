@@ -82,13 +82,13 @@ Hidroenergija je drugi najbolj razširjen tip energije v Sloveniji. Poglejmo si 
     <!-- ![Proizvodnja vetrne energije Črna Gora graf](/img/WindMontenegro.png)
     ![Proizvodnja vetrne energije](/img/Wind.jpg) -->
 
-## 5. Jedrka energija:
+## 5. Jedrska energija:
 - Jedrka energija je najbolj razširjena v Franciji. To je tudi trenutno njen glavni vir električne energije že od 80ih let.
     - Leta 1974 je bil sprožen tako imenovan "Messmer Plan", ki naj bi privedel do tega, da bi Francija na področju proizvajanja domačih energetskih virov postala bolj samostojna. V tem času so bili njen glavni vir fosilna goriva, vendar večino so uvažali in zaradi naftne krize leta 1973 so se cene močno dvognile. Od leta 2011 po eksploziji na Fukušimi prebivalci manj zaupajo temu tipu energije. Zato so določili, da do 2035 zmanjšajo proizvodnjo za toliko, da bo le 50% vse energije v državi proizvedene na tak način.
     
     ![Proizvodnja nuklearne energije](/img/NuclearMap.png)
 
-- Prav tako kot v Franciji, je tudi v Sloveniji glavni vir električne energije.
+- V Sloveniji je jedrska energija tretji glavni vir.
 
 ## 6. skupna proizvodnja energije v evropi glede na njeno vrsto:
 
