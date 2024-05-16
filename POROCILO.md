@@ -36,27 +36,27 @@ Na spodnji sliki so prikazani grafi za vsak tip proizvodnje energije in države,
 - Ciper in Estonija proizvajata veliko več energije iz gorljivih goriv kot ostale države.
 
 ## 2. Hidroenergija:
-Hidroenergija je najbolj razširjen tip energije v Sloveniji. Poglejmo si nekaj zanimivosti, ki smo jih ugotovili:
+Hidroenergija je drugi najbolj razširjen tip energije v Sloveniji. Poglejmo si nekaj zanimivosti, ki smo jih ugotovili:
 
 - Norveška je največji proizvajalec hidroenergije.
     - Norveška dobro izkorišča svoje vodne vire, večina elektrarn je postavljenih na že obstoječih jezerih in posledično ni potrebno dodatne gradnje ali množičnega preseljevanja prebivalstva. Vodno energijo je lahko uravnavati in proizvajati glede na potrebo. Prav tako hidroelektrarne na Norveškem ležijo na višji nadmorski višini, kar je posledica površja države, in posledično proizvajajo manj emisij. Razlog tiči za tem, da je v goratih predelih manj vegetacije in je na splošno bolj mrzlo, kar posledično vpliva na zmanjšano proizvodnjo metana v hidroelektrarnah kot stranski proizvod.
 
     ![Proizvodnja hidro energije na Norveškem graf](/img/norwayHydroGraf.png)
 
-    In še slika, s katero si lahko bolj nazorno predstavljamo razliko med proizvodnjo na Norveškem in v ostalih državah
+    <!-- In še slika, s katero si lahko bolj nazorno predstavljamo razliko med proizvodnjo na Norveškem in v ostalih državah
 
-    ![Proizvodnja hidro energije na Norveškem map](/img/MapaHydro.png)
+    ![Proizvodnja hidro energije na Norveškem map](/img/MapaHydro.png) -->
 
 **Naslednji podatki so grupirani**
 
 - Na Irskem je med letoma 2010 in 2011 velik upad v proizvodnji.
-    -V letu 2009 so vsi sektorji gospodarstva občutili zmanjšanje porabe energije in s tem povezanih emisij CO2. Leta 2011 do 2013 so bila blaga leta v primerjavi z letom 2010 in ne glede na enakomerno rast BDP je v teh letih prišlo do padca povpraševanja po energiji v vseh sektorjih gospodarstva.
+    -V letu 2009 so vsi sektorji gospodarstva občutili zmanjšanje porabe energije in s tem povezanih emisij CO2. Leta 2011 do 2013 so bila blaga leta v primerjavi z letom 2010 in ne glede na enakomerno rast BDP je v teh letih prišlo do padca 
+    povpraševanja po energiji v vseh sektorjih gospodarstva.
 
-    ![Proizvodnja hidroenergije Irska graf](/img/WonkIrelandHydro.png)
+    <!-- ![Proizvodnja hidroenergije Irska graf](/img/WonkIrelandHydro.png) -->
 
 - Primerjava Slovenije s podobnimi državami:
-    -TODO why are they so similar
-
+    - Finska in Hrvaška sta glede proizvodnje na prebivalca najbližji Sloveniji.
 
     ![Proizvodnja hidro energije Slovenija graf](/img/HydroSloveniaGraf.png)
 
@@ -65,7 +65,7 @@ Hidroenergija je najbolj razširjen tip energije v Sloveniji. Poglejmo si nekaj 
 - Leta 2011 je viden največji porast v proizvodnji sončne energije. 
     - To je zaradi različnih spodbud in razširjenega subvencioniranje s strani vlad. To je privedlo do nižjih cen. Trg sončnih celic se je tudi v tem času razvil hitreje od pročakovanj, kar je še dodatno spodbudilo rast. Trg se je to leto najbolj povečal v Italiji in Nemčiji, trenutno pa sta največji proizvajalki Nemčija in Nizozemska.
 
-    ![Skupna proizvodnja Sončne energije mapa](/img/SolarEnergyEuropeMap.png)
+    <!-- ![Skupna proizvodnja Sončne energije mapa](/img/SolarEnergyEuropeMap.png) -->
 
 - Primerjava Slovenije s podobnimi državami:
 
@@ -75,30 +75,52 @@ Hidroenergija je najbolj razširjen tip energije v Sloveniji. Poglejmo si nekaj 
 - Vetrna energija je ena izmed najbolj popularnih zelenih načinov za pridobivanje električne energije.
     - Finska in Norveška se predvsem zavzameta za vetrno energijo v letu 2018, saj se v naslednjih letih proizvodnja več kot podvoji.
 
-    ![Proizvodnja vertne energije Finska graf](/img/WindFinland.png)
+    <!-- ![Proizvodnja vertne energije Finska graf](/img/WindFinland.png) -->
 
 - Črna Gora se leta 2016 tudi zelo zavzame za ta tip energije, saj je v nesledjih dveh letih zgradila 2 veliki vetrni elektrarni, imenovani Krnovo in Mozura.
 
-    ![Proizvodnja vetrne energije Črna Gora graf](/img/WindMontenegro.png)
-    ![Proizvodnja vetrne energije](/img/Wind.jpg)
+    <!-- ![Proizvodnja vetrne energije Črna Gora graf](/img/WindMontenegro.png)
+    ![Proizvodnja vetrne energije](/img/Wind.jpg) -->
 
-## 5. Nuklearna energija:
-- Nuklearna energija je najbolj razširjena v Franciji. To je tudi trenutno njen glavni vir električne energije že od 80ih let.
+## 5. Jedrka energija:
+- Jedrka energija je najbolj razširjena v Franciji. To je tudi trenutno njen glavni vir električne energije že od 80ih let.
     - Leta 1974 je bil sprožen tako imenovan "Messmer Plan", ki naj bi privedel do tega, da bi Francija na področju proizvajanja domačih energetskih virov postala bolj samostojna. V tem času so bili njen glavni vir fosilna goriva, vendar večino so uvažali in zaradi naftne krize leta 1973 so se cene močno dvognile. Od leta 2011 po eksploziji na Fukušimi prebivalci manj zaupajo temu tipu energije. Zato so določili, da do 2035 zmanjšajo proizvodnjo za toliko, da bo le 50% vse energije v državi proizvedene na tak način.
+    
     ![Proizvodnja nuklearne energije](/img/NuclearMap.png)
 
-## N skupna proizvodnja energije v evropi glede na njeno vrsto 
+- Prav tako kot v Franciji, je tudi v Sloveniji glavni vir električne energije.
+
+## 6. skupna proizvodnja energije v evropi glede na njeno vrsto:
 
 Na spodnji sliki sta dva grafa, ki prikazujeta skupno proizvodnjo v Evropi glede na tip energije. Drugi graf je razširitev prvega, na katerem so tipi energije, ki se najmanj proizvedejo. Za prvi je enota gigawatt (GW), za drugi pa megawatt (MW)
 
-![Skupna proizvodnja energije v evropi](/img/imgSkupno.png)
+![Skupna proizvodnja energije v Evropi](/img/imgSkupno.png)
 
 **Ugotovili smo slednje:**
 
-- Fosilna goriva še vedno prevladujejo za veliko, ampak njihov proizvod počasi upada.
+- Fosilna goriva še vedno zelo prevladujejo, ampak njihov proizvod počasi upada.
 - Sončna in vetrna energija imata največji porast v zadnjih letih.
 - Razen geotermalne energije so ostali tipi videli minimalno rast.
 - Nuklearna energija po letu 2011 počasi upada, omenjenega leta pa je bil videti največji padec. To je bilo zaradi velikih skrbi za varnost po eksploziji v Fukušimi na Japonskem. Takrat so med drugim v Nemčiji zaprli osem večjih nukleark.
+
+## 7. Skupna proizvodnja glede na tip električne energije v Sloveniji:
+
+- Največ energije pridobimo iz fosilnih goriv, kmalu za njo ji sledi hidroenergija, za obema pa jedrska. To so trije glavni viri.
+- Ostale zelo zaostajajo, je pa viden velik porast v sončni energiji. Prvi večji porast je leta 2011, drugi pa 2019. Kmalu je že na isti ravni kot jedrska, ki ostaja nespremenjena že 30 let.
+- Leta 2015 sta se zaprla 2 bloka v termoelektrarni Šoštanj, zato je viden padec proizvodnje.
+
+![Skupna proizvodnja energije v Sloveniji](/img/SlovenijaPower.png)
+
+### Primerjava Slovenije in nekaterih večjih, sosednjih in podobnih držav glede obnovljivih virov:
+- Spodaj smo preverili kakšno je stanje z obnovljivimi viri energije v Sloveniji. Primerjali smo jo z nekaj dobro razvitimi državami na tem področju, kot sta naprimer Nemčija in Finska. Prav tako z vzhodnoevropskimi državami, ki bi pričakovali da so na tem področju manj razvite, naprimer Turčija in Češka, pa še z nekaj sosednjimi državami.
+
+![Zelena energija v Sloveniji](/img/zelenaEnergijaSlo.png)
+
+**Ugotovili smo slednje:**
+- Najbolje nam gre na področju hidroenergije. Zanimivo je, da Avstrija proizvede veliko več napram ostalim. Nemčija ima nepričakovano zelo malo proizvodnje.
+- Trdna biogoriva očitno prevladujejo na Finskem, saj če ne štejemo Rusije je to druga najbolj gozdnata država v Evropi, takoj za Švedsko. Okoli 73% Finske je prekrite z gozdovi, kar pomeni 23 milijonov hekrarov gozda. Spet preseneča Avstrija z veliko količino proizvodnje napram ostalim, vendar po letu 2011 počasi upada. Češka ima presenetljivo več kot Nemčija, saj ima na razpolago le 2.67 milijona hektarjev (34%) napram Nemških 11,4 milijonov (32%). Slovenija zelo zaostaja kljub bogatim gozdnim površinam.
+- Pri vetrni energiji prevladujeta Finska in Nemčija, s tem da je rast Finske nenadna in zelo izrazita. Leta 2022 je bila rast za 41%, kar je privedlo do tega, da je postal to tretji glavni vir energije v državi. Slovenija je pričakovano nizko, saj imamo le dve vetrni turbini, Razdrto in Dolenja vas. Za primerjavo, Finska jih ima 314. Avstrija, ki ima tudi viden porast jih ima 287.
+- Nemčija pričakovano prevladuje s sončno energijo. Presenetljiv je velik porast na Češkem, ki pa se hitro ustavi in ne napreduje. Glede na graf ima Slovenija lepo rast, skorajda primerljiv z Avstrijo. Zanimivo je videti, da sta Finska in Turčija skorajda na istem kljub pojavu polarne noči na Finskem. Na najsevernejših delih sonce ne vzide tudi po 50 dni. 
 
 ## Viri:
 - https://www.seai.ie/publications/Energy-in-Ireland-1990-2015.pdf
@@ -108,3 +130,4 @@ Na spodnji sliki sta dva grafa, ki prikazujeta skupno proizvodnjo v Evropi glede
 - https://en.wikipedia.org/wiki/Wind_power_in_Finland
 - https://www.pv-tech.org/solar_power_was_most_installed_power_in_europe_in_2011_says_epia/
 - https://en.wikipedia.org/wiki/Nuclear_power_in_France
+- https://www.thewindpower.net/country_list_en.php
