@@ -47,8 +47,6 @@ Hidroenergija je drugi najbolj razširjen tip energije v Sloveniji. Poglejmo si 
 
     ![Proizvodnja hidro energije na Norveškem map](/img/MapaHydro.png) -->
 
-**Naslednji podatki so grupirani**
-
 - Na Irskem je med letoma 2010 in 2011 velik upad v proizvodnji.
     -V letu 2009 so vsi sektorji gospodarstva občutili zmanjšanje porabe energije in s tem povezanih emisij CO2. Leta 2011 do 2013 so bila blaga leta v primerjavi z letom 2010 in ne glede na enakomerno rast BDP je v teh letih prišlo do padca 
     povpraševanja po energiji v vseh sektorjih gospodarstva.
@@ -90,7 +88,7 @@ Hidroenergija je drugi najbolj razširjen tip energije v Sloveniji. Poglejmo si 
 
 - V Sloveniji je jedrska energija tretji glavni vir.
 
-## 6. skupna proizvodnja energije v evropi glede na njeno vrsto:
+## 6. Skupna proizvodnja energije v Evropi glede na njeno vrsto:
 
 Na spodnji sliki sta dva grafa, ki prikazujeta skupno proizvodnjo v Evropi glede na tip energije. Drugi graf je razširitev prvega, na katerem so tipi energije, ki se najmanj proizvedejo. Za prvi je enota gigawatt (GW), za drugi pa megawatt (MW).
 
